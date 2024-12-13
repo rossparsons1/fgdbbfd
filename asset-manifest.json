@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.035811a2.css",
+    "main.js": "/static/js/main.77248ece.js",
+    "static/media/Frame.svg": "/static/media/Frame.17aedea6fd57860ef56f445db09d0273.svg",
+    "static/media/samura.svg": "/static/media/samura.6fa7f29a8e3090085cb959881dafb9a9.svg",
+    "static/media/tgCard.svg": "/static/media/tgCard.ca30223297dc3dfa53f5bb2cbbb7efed.svg",
+    "static/media/DEATHBLOOD.ttf": "/static/media/DEATHBLOOD.c1bf0bb0e2deff41e3f7.ttf",
+    "static/media/tgIcons.svg": "/static/media/tgIcons.3eec678b0b071b820f0386110867000b.svg",
+    "index.html": "/index.html",
+    "main.035811a2.css.map": "/static/css/main.035811a2.css.map",
+    "main.77248ece.js.map": "/static/js/main.77248ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035811a2.css",
+    "static/js/main.77248ece.js"
+  ]
+}
